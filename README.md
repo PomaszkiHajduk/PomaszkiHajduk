@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hajduk
+- 👋 Hi, I’m Hajduk (Hai-duc)
 - 🌱 I’m currently learning python
 - 😄 Pronouns: he/him
 
